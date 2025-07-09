@@ -1,6 +1,6 @@
 # Miguel Ángel Falcón – Cloud • DevOps • SRE Portfolio
 
-![banner](https://www.miguelangelfalcon.com/assets/img/banner.jpg)
+![banner](media/banner_icons.jpg)
 
 > *“Love IT and deploy applications to the cloud. Every day learning something new and amazing.”*
 
