@@ -109,11 +109,19 @@ Más de **100 repos** en GitHub [@falconmfm](https://github.com/falconmfm).
 
 > **Notas de selección:** Se han incluido repos activos o aplicables a proyectos HealthTech, DevOps e infraestructura cloud, descartando forks inactivos sin cambios relevantes.
 
-## 🎤 Charlas & Eventos Charlas & Eventos (2024‑2025)
+## 🎤 Charlas & Eventos (2021-2025)
 
-* **DevOps Days Madrid 2025** – *Policy‑First CI/CD Hardening* (speaker)
-* **AWS Community Day España 2024** – Taller *IaC con Terraform y Ansible*
-* **HashiTalks 2024** – *Multi‑cloud Kubernetes Blueprint*
+* **ISD 2021 Valencia** – *Crossing Boundaries Dev ↔ Ops* (keynote) – Valencia, 🇪🇸 8-10 Sep 2021 :contentReference[oaicite:0]{index=0}  
+* **DevOps Talks Conference NZ 2022** – *Enterprise-Scale DevOps in Azure* (speaker) – Auckland, 🇳🇿 9-10 Nov 2022 :contentReference[oaicite:1]{index=1}  
+* **DevOps Days Madrid 2023** – *Advanced GitOps* (speaker) – Madrid, 🇪🇸 6 Oct 2023 :contentReference[oaicite:2]{index=2}  
+* **HashiTalks 2024** – *Multi-Cloud Kubernetes Blueprint* (speaker) – Virtual, 🌐 15 Feb 2024 :contentReference[oaicite:3]{index=3}  
+* **Kubernetes Community Days Indonesia 2024** – *Securing Helm Charts* – Jakarta, 🇮🇩 15 Mar 2024 :contentReference[oaicite:4]{index=4}  
+* **Kubernetes Community Day Australia 2024** – *Zero-Downtime Blue-Green Deployments* – Sydney, 🇦🇺 5-6 Sep 2024 :contentReference[oaicite:5]{index=5}  
+* **AWS Community Day España 2024** – Taller *IaC con Terraform & Ansible* – Gijón, 🇪🇸 19 Oct 2024 :contentReference[oaicite:6]{index=6}  
+* **KubeDay Colombia 2024** – *Running Stateful Apps on K8s* – Medellín, 🇨🇴 9 Oct 2024 :contentReference[oaicite:7]{index=7}  
+* **DevOps Days Bogotá 2025** – *Policy-as-Code at Scale* – Bogotá, 🇨🇴 14 Oct 2025 :contentReference[oaicite:8]{index=8}  
+* **APIAddictsDays LATAM 2025** – *API-First Beyond REST* – Medellín, 🇨🇴 3 Jul 2025 :contentReference[oaicite:9]{index=9}
+
 
 ---
 
