@@ -12,10 +12,13 @@
 * **Co‑Founder & ex‑CTO – Nubentos, The API Marketplace for Health** (2017 – 2023).
 * **Role today:** Cloud & DevOps Architect / SRE, 25+ years in Unix systems, Kubernetes & IaC.
 * **Focus:** Multi‑cloud strategy, zero‑downtime migrations, platform resilience, team mentoring.
-* **Based in:** Sevilla, Spain (remote‑first)
+**🌍 Digital Nomad — Currently:** 🇨🇴 Bogotá · 🇨🇴 Santa Marta  
+**Prev:** 🇮🇩 Denpasar (Bali) · 🇦🇺 West Coast AU · 🇳🇿 Around NZ · 🇻🇳 (Various spots)  
+**Base 🇪🇸 España:** Los Caños de Meca (Cádiz), Granada, San Fernando (Cádiz), Sevilla
+
 
 [CV completo (PDF)](/docs/CV_MiguelAngelFalcon.pdf)
-📧 **Email:** [miguel.angel@falc0n.es](mailto:miguel.angel@falc0n.es)  |  ☎️ **Phone:** +34 654 698 855
+📧 **Email:** [miguel.angel@falc0n.es](mailto:miguel.angel@falc0n.es)  |  ☎️ **Phone:** +57 310 4863566
 
 ---
 
