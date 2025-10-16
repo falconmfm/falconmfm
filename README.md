@@ -10,7 +10,7 @@
 
 * **Founder & Principal Consultant – Falc0n IT Professional Solutions** (since **2013**), boutique consultancy for cloud, DevOps and IT governance.
 * **Co‑Founder & ex‑CTO – Nubentos, The API Marketplace for Health** (2017 – 2023).
-* **Role today:** Cloud & DevOps Architect / SRE, 25+ years in Unix systems, Kubernetes & IaC.
+* **Role today:** Cloud & DevOps Lead | SaaS, Healthcare & Gaming | CTO as a Service.
 * **Focus:** Multi‑cloud strategy, zero‑downtime migrations, platform resilience, team mentoring.
 **🌍 Digital Nomad — Currently:** 🇨🇴 Bogotá · 🇨🇴 Santa Marta  
 **Prev:** 🇮🇩 Denpasar (Bali) · 🇦🇺 West Coast AU · 🇳🇿 Around NZ · 🇻🇳 (Various spots)  
